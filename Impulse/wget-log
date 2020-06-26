@@ -1,0 +1,6 @@
+--2020-03-13 09:37:48--  http://downloads.sourceforge.net/project/websploit/WebSploit%20Framework%20V.2.0.4/WebSploit%20Framework%20V.2.0.4.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwebsploit%2F
+Resolving downloads.sourceforge.net... 216.105.38.13
+Connecting to downloads.sourceforge.net|216.105.38.13|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-03-13 09:37:49 ERROR 404: Not Found.
+
